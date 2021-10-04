@@ -1,0 +1,3 @@
+[submodule "kerncijfers-toerisme"]
+	path = kerncijfers-toerisme
+	url = https://github.com/westtoer/kerncijfers-toerisme
